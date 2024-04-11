@@ -10,6 +10,7 @@ The dataset consists of the following columns:
 - V1, V2, ..., V28: Principal components obtained with PCA.
 - Amount: Transaction amount.
 - Class: The target variable, where 1 indicates a fraudulent transaction and 0 indicates a normal transaction.
+- The dataset has been taken from Kaggle : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Data Pre-processing
 
